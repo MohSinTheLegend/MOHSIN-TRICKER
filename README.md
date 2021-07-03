@@ -19,11 +19,14 @@
 # ➤ Username : MOHSIN
 # ➤ Password : SYCO
 
-# Option
+``# Option``
+
+```
 > login with token
 > login with password
 >Grup  id Post
 > clone friendlist
 > clone public ID
 > clone Follwors ID
+```
 
